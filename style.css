@@ -1,0 +1,15 @@
+.col-md-12 {
+	float: none;
+	text-align: center;
+	padding-top: 1.5em;
+
+	
+}
+button {
+	background-color: red;
+
+}
+body {
+	background-image: url("https://static.getjar.com/ss/6a/778697.jpg");
+	color: white;
+}
